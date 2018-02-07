@@ -38,7 +38,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/afs_dev_test.
+Bug reports and pull requests are welcome on GitHub at https://github.com/afstanton/afs_dev_test.
 
 ## License
 
