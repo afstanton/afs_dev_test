@@ -27,6 +27,8 @@ Or install it yourself as:
 
 There's no real "usage" unique to this gem yet. Consult the docs for the gems that it brings in.
 
+[rspec-rails](https://github.com/rspec/rspec-rails)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
