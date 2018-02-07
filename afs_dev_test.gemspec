@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/afstanton/afs_dev_test"
   spec.license       = "MIT"
 
-  spec.add_dependency "factory_bot_rails"
+  spec.add_dependency "factory_bot_rails", "~> 4.8"
   spec.add_dependency "rspec-rails", "~> 3.7"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
