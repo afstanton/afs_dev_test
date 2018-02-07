@@ -6,7 +6,7 @@ I expect that I'll be adding scripts to this gem to simplify setup and config of
 
 ## Installation
 
-Add `afs_def_test` to **both** the `:development` and `:test` groups in the
+Add `afs_dev_test` to **both** the `:development` and `:test` groups in the
 `Gemfile`:
 
 ```ruby
