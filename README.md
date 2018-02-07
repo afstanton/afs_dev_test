@@ -27,6 +27,7 @@ Or install it yourself as:
 
 There's no real "usage" unique to this gem yet. Consult the docs for the gems that it brings in.
 
+[factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
 [rspec-rails](https://github.com/rspec/rspec-rails)
 
 ## Development
