@@ -25,7 +25,7 @@ Or install it yourself as:
 
 ## Usage
 
-There's no real "usage" unique to this gem yet. Consult the docs for the gems that it brings in.
+This adds a new rake task, "afs:dev_test:config". At the moment, all this does is run the rspec-rails generator. There's no special config for factory_bot_rails. As more gems get added, I'll add their configs to this.
 
 [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)  
 [rspec-rails](https://github.com/rspec/rspec-rails)  
