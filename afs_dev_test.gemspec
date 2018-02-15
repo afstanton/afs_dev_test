@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "rspec-rails", "~> 3.7"
   spec.add_dependency "selenium-webdriver", "~> 3.9"
   spec.add_dependency "simplecov", "~> 0.15"
+  spec.add_dependency "thor", "~> 0.20"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
