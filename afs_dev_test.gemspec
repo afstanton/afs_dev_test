@@ -13,8 +13,12 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/afstanton/afs_dev_test"
   spec.license       = "MIT"
 
+  spec.add_dependency "chromedriver-helper", "~> 1.2"
+  spec.add_dependency "database_cleaner", "~> 1.6"
   spec.add_dependency "factory_bot_rails", "~> 4.8"
   spec.add_dependency "rspec-rails", "~> 3.7"
+  spec.add_dependency "selenium-webdriver", "~> 3.9"
+  spec.add_dependency "simplecov", "~> 0.15"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
